@@ -89,3 +89,9 @@ FROM SalesData$
 GROUP BY(Product)
 ORDER BY Sum(Sales) desc
 ```
+### Data Visualization
+This is the visual presentation of the diferent charts that depicts the findings from the analysis carried out on Capstone stores sales report across the country.
+
+![Power Bi Dashboard](https://github.com/user-attachments/assets/37e23b9a-950b-4c60-a434-7d303efe40b1)
+
+### Findings and recommendation
