@@ -94,4 +94,11 @@ This is the visual presentation of the diferent charts that depicts the findings
 
 ![Power Bi Dashboard](https://github.com/user-attachments/assets/37e23b9a-950b-4c60-a434-7d303efe40b1)
 
-### Findings and recommendation
+### Findings
+From the analysis conducted, there was a decline of **#0.6million** in total revenue y-o-y (2023 - #5.6m & 2024 - #5m) which may be attributed to having data points up to 2024 Q3 as against full year 2023 data. The most sold product by quantity is **Hat** with 80,000 units sold while the most sold by revenue is **shoes** with a revenue value of #3.1million. 
+
+Generally, February happend to be the peak sales period in 2023 and 2024 which may be linked to the lifestyle of changing wardrobes at the beginning of the year. 44% of sales revenue was generated from the South. There is a possibility of concentration risk as top 5 customers consistute 92% of the overall sales revenue which could affect revenue if two of the customers stop patronising Capstone.
+
+### Recommendation
+
+My first recommendation would be for the marketing and sales team to develop strategies to improve the sales performance of jacket and socks products. Also, December is expected to be a period were sales traffic is high but from the data spooled, it's the opposite which should make concerned stakeholders introduce promotional sales and discount during festive periods in December and March/April. Another recommendation is to increase conversion rate of potential customers to reduce concentration risk.
